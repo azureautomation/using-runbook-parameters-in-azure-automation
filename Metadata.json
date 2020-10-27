@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 2010,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/using-runbook-parameters-in-azure-automation/master/Use-RunbookParameterSample.ps1",
+    "DownloadCount": 3373,
+    "Id": "How-to-use-runbook-8ddee029",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 150,
+    "RaterCount": 3,
+    "Rating": 4.3,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook illustrates how to use input parameters in runbooks.",
+    "Title": "Using runbook parameters in Azure Automation",
+    "UpdatedDate": "2014-3-31T00:00:00",
+    "Url": "https://github.com/azureautomation/using-runbook-parameters-in-azure-automation",
+    "UserTags": "Tutorial"
+}
